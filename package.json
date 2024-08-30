@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@graphql-tools/schema": "^10.0.6",
+    "apollo-datasource-rest": "^3.7.0",
     "apollo-server": "^3.13.0",
     "graphql": "^16.9.0",
     "graphql-subscriptions": "^2.0.0",
